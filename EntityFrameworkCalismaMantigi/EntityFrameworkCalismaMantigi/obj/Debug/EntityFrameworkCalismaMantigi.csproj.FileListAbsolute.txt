@@ -1,0 +1,7 @@
+C:\Users\teteg\source\repos\EntityFrameworkCalismaMantigi\EntityFrameworkCalismaMantigi\bin\Debug\EntityFrameworkCalismaMantigi.exe.config
+C:\Users\teteg\source\repos\EntityFrameworkCalismaMantigi\EntityFrameworkCalismaMantigi\bin\Debug\EntityFrameworkCalismaMantigi.exe
+C:\Users\teteg\source\repos\EntityFrameworkCalismaMantigi\EntityFrameworkCalismaMantigi\bin\Debug\EntityFrameworkCalismaMantigi.pdb
+C:\Users\teteg\source\repos\EntityFrameworkCalismaMantigi\EntityFrameworkCalismaMantigi\obj\Debug\EntityFrameworkCalismaMantigi.csproj.AssemblyReference.cache
+C:\Users\teteg\source\repos\EntityFrameworkCalismaMantigi\EntityFrameworkCalismaMantigi\obj\Debug\EntityFrameworkCalismaMantigi.csproj.CoreCompileInputs.cache
+C:\Users\teteg\source\repos\EntityFrameworkCalismaMantigi\EntityFrameworkCalismaMantigi\obj\Debug\EntityFrameworkCalismaMantigi.exe
+C:\Users\teteg\source\repos\EntityFrameworkCalismaMantigi\EntityFrameworkCalismaMantigi\obj\Debug\EntityFrameworkCalismaMantigi.pdb
